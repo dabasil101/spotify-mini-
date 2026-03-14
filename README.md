@@ -2,7 +2,7 @@
 
 A sleek, "Pill-style" mini-player for Spotify on Linux. Designed to stay out of your way while keeping your music controls and progress visible at a glance.
 
-
+![alt text](<Screenshot from 2026-03-15 00-51-52.png>) ![alt text](<Screenshot from 2026-03-15 00-54-31.png>) ![alt text](<Screenshot from 2026-03-15 02-38-01.png>) ![alt text](<Screenshot from 2026-03-15 02-38-39.png>)
 
 ![License](https://img.shields.io/badge/license-MIT-purple)
 ![Platform](https://img.shields.io/badge/platform-Linux-blue)

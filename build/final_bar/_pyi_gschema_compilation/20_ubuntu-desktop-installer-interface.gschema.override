@@ -1,0 +1,4 @@
+[org.gnome.desktop.interface:ubuntu]
+color-scheme='default'
+gtk-theme='Yaru'
+icon-theme='Yaru'

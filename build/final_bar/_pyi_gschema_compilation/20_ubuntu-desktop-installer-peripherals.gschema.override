@@ -1,0 +1,7 @@
+[org.gnome.desktop.peripherals.mouse:ubuntu]
+natural-scroll=true
+speed=0.0
+
+[org.gnome.desktop.peripherals.touchpad:ubuntu]
+edge-scrolling-enabled=false
+two-finger-scrolling-enabled=true
